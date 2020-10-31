@@ -1,4 +1,8 @@
 This is file1.
 How are you?
 Today is saturday and learning git branches.
+<<<<<<< HEAD
 pqrstuv
+=======
+abcdefgh
+>>>>>>> br2
