@@ -1,3 +1,4 @@
 This is file2
 We all are Indians
 Today is a bright sunny day
+We are learning branching in git
